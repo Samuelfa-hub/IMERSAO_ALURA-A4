@@ -1,4 +1,4 @@
-<h1 align= "center">Glass Briedge<h1>
+<h1 align= "center">DUEL<h1>
 
 
 <p align="center">
